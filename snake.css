@@ -1,0 +1,14 @@
+html{
+    margin: 0;
+    background-image: url(./pexels-mnm-zameer-3308588.jpg);
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ canvas{
+    box-shadow: 0px 0px 9px rgba(0, 179, 255, 0.588);
+    border-radius: 9px;
+ }
